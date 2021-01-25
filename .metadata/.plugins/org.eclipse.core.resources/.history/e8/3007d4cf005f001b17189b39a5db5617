@@ -1,0 +1,13 @@
+package projeto1;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double n = 3.1415;
+		System.out.printf("%.1f%n",n);
+		
+	}
+
+}
