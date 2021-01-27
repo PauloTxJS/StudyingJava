@@ -91,7 +91,7 @@ public class Main {
 		System.out.println(n2);
 		System.out.println(n2Copy);
 		
-		int n3 = (int) Math.abs(-5.2); // Absolute value
+		int n3 = (int) Math.abs(5.2); // Absolute value
 		double n3Copy = Math.abs(-5.2);
 		System.out.println(n3);
 		System.out.println(n3Copy);

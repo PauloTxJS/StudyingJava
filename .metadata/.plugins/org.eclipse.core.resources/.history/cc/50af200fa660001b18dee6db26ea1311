@@ -41,7 +41,6 @@ public class Main {
 		System.out.printf("US decimal point: %.3f%n", measure);
 		*/
 		
-		/*data input*/
 		Scanner sc = new Scanner(System.in);
 		
 //		String x;
@@ -65,36 +64,20 @@ public class Main {
 //		name = sc.nextLine(); // Pega a linha inteira
 //		System.out.println(name);
 		
-//		int x;
-//		String s1, s2, s3;
-//		
-//		x = sc.nextInt();
-//		sc.nextLine();
-//		s1 = sc.nextLine();
-//		s2 = sc.nextLine();
-//		s3 = sc.nextLine();
-//		
-//		System.out.println("DADOS DIGITADOS:");
-//		System.out.println(x);
-//		System.out.println(s1);
-//		System.out.println(s2);
-//		System.out.println(s3);
+		int x;
+		String s1, s2, s3;
 		
-		/* Mathematical functions */
-		int n1 = (int) Math.sqrt(25); // Square root
-		double n1Copy = Math.sqrt(25);
-		System.out.println(n1);
-		System.out.println(n1Copy);
+		x = sc.nextInt();
+		sc.nextLine();
+		s1 = sc.nextLine();
+		s2 = sc.nextLine();
+		s3 = sc.nextLine();
 		
-		int n2 = (int) Math.pow(2, 3); // Potentiation
-		double n2Copy = Math.pow(2, 3);
-		System.out.println(n2);
-		System.out.println(n2Copy);
-		
-		int n3 = (int) Math.abs(-5.2); // Absolute value
-		double n3Copy = Math.abs(-5.2);
-		System.out.println(n3);
-		System.out.println(n3Copy);
+		System.out.println("DADOS DIGITADOS:");
+		System.out.println(x);
+		System.out.println(s1);
+		System.out.println(s2);
+		System.out.println(s3);
 			
 		sc.close();
 	}
