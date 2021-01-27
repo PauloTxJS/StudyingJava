@@ -60,24 +60,10 @@ public class Main {
 //		System.out.println("O valor digitado foi: " + x);
 		
 		
-//		String name;
-//		name = sc.nextLine(); // Pega a linha inteira
-//		System.out.println(name);
+		String name;
+		name = sc.nextLine();
+		System.out.println(name);
 		
-		int x;
-		String s1, s2, s3;
-		
-		x = sc.nextInt();
-		sc.nextLine();
-		s1 = sc.nextLine();
-		s2 = sc.nextLine();
-		s3 = sc.nextLine();
-		
-		System.out.println("DADOS DIGITADOS:");
-		System.out.println(x);
-		System.out.println(s1);
-		System.out.println(s2);
-		System.out.println(s3);
 			
 		sc.close();
 	}
