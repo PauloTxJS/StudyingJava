@@ -104,10 +104,6 @@ public class Main {
 //		==
 //		!=
 		
-		/*Logical Expressions*/
-//		&& -> and
-//		|| -> or
-//		! -> not
 			
 		sc.close();
 	}
