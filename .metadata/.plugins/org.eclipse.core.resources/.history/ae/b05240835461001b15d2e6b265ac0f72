@@ -108,27 +108,6 @@ public class Main {
 //		&& -> and
 //		|| -> or
 //		! -> not
-		
-		/*Conditional structure*/
-//		if (algumaCoisa) {
-//			faça alguma coisa
-//		}
-		
-//		if (algumaCoisa) {
-//			faça alguma coisa
-//		} else {
-//			faça aquilo
-//		}
-		
-//		int time = 19;
-//		
-//		if (time < 12) {
-//			System.out.println("Good Morning");
-//		}else if(time > 12 && time < 18) {
-//			System.out.println("Good Afternoon");
-//		} else {
-//			System.out.println("Good Evening");
-//		}
 			
 		sc.close();
 	}
