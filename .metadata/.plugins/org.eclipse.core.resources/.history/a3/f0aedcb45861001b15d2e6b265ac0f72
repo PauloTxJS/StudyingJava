@@ -170,10 +170,7 @@ public class Main {
 //		
 //		}
 		
-		/*Ternary conditional*/
-//		int age = 35;
-//		boolean older = (age < 18) ? false : true;
-//		System.out.println(older);
+		
 			
 		sc.close();
 	}
