@@ -1,0 +1,27 @@
+package vectors;
+
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int n = sc.nextInt();
+		double[] ages = new double[n];
+		
+		for (int i = 0; i < n; i++) {
+			ages[i] = sc.nextDouble();
+		}
+		
+		for (int i = 0; i < n; i++) {
+			System.out.println(ages[i]);
+		}
+		
+		
+		
+		sc.close();
+	}
+
+}
