@@ -1,0 +1,13 @@
+package list;
+
+import java.util.List;
+
+public class Program {
+
+	public static void main(String[] args) {
+		// "List" é uma interface e precisa de uma classe pra implementá-la.	
+		List<Integer> list = new ; // A lista não aceita valores primitivos, só Wrapper Classes.
+
+	}
+
+}
